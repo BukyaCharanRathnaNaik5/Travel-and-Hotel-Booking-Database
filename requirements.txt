@@ -1,0 +1,5 @@
+pyspark>=3.4
+pandas
+numpy
+scikit-learn
+matplotlib
